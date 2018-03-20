@@ -1,0 +1,30 @@
+[{
+  "title" : "提问列表",
+  "icon" : "icon-computer",
+  "href" : "page/question.html",
+  "spread" : false
+},{
+  "title" : "线索列表",
+  "icon" : "icon-text",
+  "href" : "page/news/newsList.html",
+  "spread" : false
+},{
+  "title" : "人员管理",
+  "icon" : "&#xe630;",
+  "href" : "",
+  "spread" : false,
+  "children" : [
+    {
+      "title" : "合伙人",
+      "icon" : "&#xe61c;",
+      "href" : "page/404.html",
+      "spread" : false
+    },
+    {
+      "title" : "管理员",
+      "icon" : "&#xe61c;",
+      "href" : "page/404.html",
+      "spread" : false
+    }
+  ]
+}]
